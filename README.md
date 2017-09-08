@@ -15,11 +15,11 @@ To use Ghost-Writer, change the script to anything you would like to write, maki
 
 ### Documentation:
 | Emoji Command  | Description   |
-| -------------- |:-------------:|
-|🆕              | Creates a new line, which can be backspaced if need be |
-|⬅️[number]      | Backspaces by the specified amount, though has a limit of 9 characters. If you need to backspace more, just add another command, but be aware that backspacing an emoji character can sometimes take more than one "backspace" to complete (blame unicode) |
-|⏸[number]      | Pauses the writing for the specified number of "ticks." Note that ticks are slightly random, and depend on the update rate. Once again, number is limited to 0-9. |
-|🛑              | Stops the program from updating and clearing, and runs the callback |
+| :--------------: |:-------------:|
+|🆕                | Creates a new line, which can be backspaced if need be |
+|⬅️[number]        | Backspaces by the specified amount, though has a limit of 9 characters. If you need to backspace more, just add another command, but be aware that backspacing an emoji character can sometimes take more than one "backspace" to complete (blame unicode) |
+|⏸[number]        | Pauses the writing for the specified number of "ticks." Note that ticks are slightly random, and depend on the update rate. Once again, number is limited to 0-9. |
+|🛑                | Stops the program from updating and clearing, and runs the callback |
 
 ### Scripts for each example:
 [**Letter to Mum**](http://apps.introcs.com/idrees/ps00-card/): 
